@@ -2,7 +2,7 @@
 
 ## Full Colab Notebook
 
-Due to size constraints, the full Colab notebook is available [here](https://colab.research.google.com/drive/1zygKN_l7wV0jitmgfm9JjSUCYHTcw3sn#scrollTo=H7cabDiKcgtc).
+Due to size constraints, the full Colab notebook is available [here](https://colab.research.google.com/drive/1zygKN_l7wV0jitmgfm9JjSUCYHTcw3sn?usp=sharing).
 
 ## Overview
 
