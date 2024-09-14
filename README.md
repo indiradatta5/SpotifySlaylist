@@ -1,27 +1,27 @@
-# SpotifySlaylist
+# SpotifySlaylist 🎵
 
-## Full Colab Notebook
+## Full Colab Notebook 📒    
 
 Due to size constraints, the full Colab notebook is available [here](https://colab.research.google.com/drive/1zygKN_l7wV0jitmgfm9JjSUCYHTcw3sn?usp=sharing). The main data.csv file can be found [here](https://docs.google.com/spreadsheets/d/1GwK9EXfULw0cyEMUk2aMVXOslzr_RYTaUlfLwt9XgSQ/edit?usp=sharing)
 
-## Overview
+## Overview 📜
 
 This project is a Spotify recommendation system built using the Spotify API. It allows users to get song recommendations based on a list of input songs. The recommendations are generated using the Spotify API's recommendation endpoint, which provides personalized song suggestions based on the provided seed tracks.
 
-## Features
+## Features ⭐
 
 - Fetches and displays recommendations based on user-provided songs.
 - Utilizes Spotify's recommendation engine to suggest new songs.
 - Analyzes song features and tracks from Spotify's database.
 
-## Requirements
+## Requirements 💻
 
 - Python 3.x
 - Spotipy library
 - Pandas
 - NumPy
 
-## Setup
+## Setup ⚙️
 
 1. **Install Dependencies**:
     ```bash
@@ -40,7 +40,7 @@ This project is a Spotify recommendation system built using the Spotify API. It 
 3. **Run the Colab Notebook**:
     Execute the notebook cells to run the recommendation system and fetch results.
 
-## Usage
+## Usage 🚀
 
 1. **Define Seed Songs**:
     Specify the list of songs you want to use as seed tracks.
@@ -61,6 +61,6 @@ This project is a Spotify recommendation system built using the Spotify API. It 
     print(recommended_songs)
     ```
 
-## Contact
+## Contact ✉️
 
 For questions about the dataset or the project, please contact me at [indiradatta5@gmail.com](mailto:indiradatta5@gmail.com).
